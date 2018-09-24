@@ -1,1 +1,2 @@
 I do not know how to learn git
+the command git init is important
